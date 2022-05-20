@@ -1,0 +1,12 @@
+Link para downlod do git: (https://git-scm.com/downloads)
+Muito importante configurar o Git bash corretamente antes de começar a trabalhar.
+Recomento que façam anotações do passo a passo para não ter problemas no momento de tirar o certificado e posteriormente deixar um bom contéudo de pesquisa.
+
+Link de estudos: (https://www.dio.me/)
+Vou deixar aqui alguns cursos que já  realizei na dio e que fazem muito sentido para quem almeja ser um Desenvolvedor, só acessar o link e procurar os cursos.
+
+1- Logica de programação.
+2- Instalando o Visual Studio Code
+3- Dominando IDEs Java.
+4- Sintaxe Básica JavaScript.
+ 
